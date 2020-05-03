@@ -22,6 +22,6 @@ C++
 
 Name: [README.pdf](https://github.com/ArijitRoy75/Minor-Project-BCA2020/blob/master/README.pdf)
 
-## Refernces
+## References
 
 Udit Chakraborty, “Introduction to soft computing Neuro-fuzzy and Genetic Algorithms”, Chapter 12, Page 14, Pearson India, 2013 
