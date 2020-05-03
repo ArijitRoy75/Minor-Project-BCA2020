@@ -14,6 +14,14 @@ In this project, we have tried to harness the Genetic Algorithms to solve the tr
 
 Name: [TSP with GA.cpp](https://github.com/ArijitRoy75/Minor-Project-BCA2020/blob/master/TSP%20with%20GA.cpp)
 
+## Programming Languages Used:
+
+C++
+
 ## Documentation
 
 Name: [README.pdf](https://github.com/ArijitRoy75/Minor-Project-BCA2020/blob/master/README.pdf)
+
+## Refernces
+
+Udit Chakraborty, “Introduction to soft computing Neuro-fuzzy and Genetic Algorithms”, Chapter 12, Page 14, Pearson India, 2013 
